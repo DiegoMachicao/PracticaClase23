@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Ejercicio3",
+      "mainClass": "Ejercicio3",
+      "buildTarget": "file:/C:/Users/DIEGO/Documents/PrograFuncional/PracticaClase23/.scala-build/?id=PracticaClase23_41e103cfb2",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Ejercicio5",
+      "mainClass": "Ejercicio5",
+      "buildTarget": "file:/C:/Users/DIEGO/Documents/PrograFuncional/PracticaClase23/.scala-build/?id=PracticaClase23_41e103cfb2",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
